@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echilaka1&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel Chilaka" /> </p>  
 
-## More About Me 👩
+## More About Me 👨
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skills...
 - 📫 Reach me at: emmanuelchilaka779@gmail.com
