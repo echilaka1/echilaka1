@@ -18,12 +18,12 @@
 ## GitHub Stats 📈
 
 <p >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=echilaka1&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=echilaka1&hide_border=true&theme=radical" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echilaka1&layout=donut&hide_border=true&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=echilaka1&show_icons=true&hide_border=true&theme=radical" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=echilaka1&hide_border=true&theme=radical" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echilaka1&layout=donut&hide_border=true&theme=radical" />
 </p>
 <p >
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=echilaka&hide_border=true&theme=radical" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=echilaka&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ---
