@@ -6,6 +6,11 @@
 - 🔭 I’m constantly learning and seeking opportunities to grow my skills...
 - 📫 Reach me at: emmanuelchilaka779@gmail.com
 
+## Currently Learning and Exploring 🌱
+
+- <img src="https://camo.githubusercontent.com/284e1daccf97e65a9cedf153fd0225b6eb1c82e66fdb416e1f5daa3fc2caa3a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4461746125323053747275637475726573253230253236253230416c676f726974686d732d6f72616e67653f7374796c653d706c6173746963"/>
+- <img src="https://camo.githubusercontent.com/517a064182710ba99c52f04b1953b1035a01690ef3851d9b1d21a9f92dcb15bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4261636b656e64253230546563686e6f6c6f676965732d7265643f7374796c653d706c6173746963/>
+
 ## Follow Me 🚀
 
 <p id="socialIcons" >
