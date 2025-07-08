@@ -4,7 +4,7 @@
 ## More About Me 👨
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skills...
-- 📫 Reach me at: emmanuelchilaka779@gmail.com
+- 📫 Reach me at: emmachilaka@outlook.com
 
 ## Currently Learning and Exploring 🌱
 
